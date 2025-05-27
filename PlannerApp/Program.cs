@@ -6,6 +6,7 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.ComponentModel;
 using System.Threading.Tasks;
+using DotNetEnv;
 
 public class MathSolver
 {
@@ -30,9 +31,11 @@ class Program
     {
         Console.WriteLine("======== Semantic Kernel Planner App ========");
 
-        string? endpoint = "https://openai202.openai.azure.com";
-        string? modelId = "gpt-4o-mini";
-        string? apiKey = "";
+        Env.Load();
+
+        string? endpoint = Environment.GetEnvironmentVariable("AZURE_OPENAI_ENDPOINT");
+        string? modelId = Environment.GetEnvironmentVariable("AZURE_OPENAI_MODEL_ID");
+        string? apiKey = Environment.GetEnvironmentVariable("AZURE_OPENAI_API_KEY");
 
         if (endpoint is null || modelId is null || apiKey is null)
         {
