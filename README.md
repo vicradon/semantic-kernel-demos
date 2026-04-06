@@ -10,3 +10,8 @@ Demos for the Semantic Kernel
 
 3. dotnet add package Microsoft.SemanticKernel.PromptTemplates.Handlebars --version 1.30.0 (if prompt handlebars are necessary)
 
+
+
+## What is an AI Agent
+
+An intelligent unit
