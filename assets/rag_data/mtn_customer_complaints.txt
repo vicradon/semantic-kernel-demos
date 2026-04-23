@@ -1,0 +1,117 @@
+MTN NIGERIA - COMMON CUSTOMER COMPLAINTS & RESOLUTIONS
+
+=== NETWORK & CONNECTIVITY ===
+
+Complaint: Poor network signal / dropped calls in my area
+Category: Network Quality
+Common Causes: Distance from cell tower, physical obstructions, network congestion during peak hours
+Resolution Steps:
+1. Check MTN's network coverage map on the website or myMTN app
+2. Restart your phone to force a fresh network registration
+3. Toggle airplane mode on and off
+4. Report the location specifically to MTN via call 300, WhatsApp (09033000001), or the myMTN app so it can be logged for engineering review
+5. For persistent issues, escalate to the NCC (080-22220002) if unresolved after 30 days
+
+Complaint: Slow internet / 4G showing but speed is very poor
+Category: Data Quality
+Common Causes: Network congestion, wrong APN settings, background apps consuming bandwidth
+Resolution Steps:
+1. Check APN settings: APN should be "internet" for MTN Nigeria
+2. Restart mobile data (toggle off and on)
+3. Check if data balance is exhausted — dial *323#
+4. Test at a different time of day (peak hours 7pm–10pm often have congestion)
+5. Report via 300 or myMTN app with your location
+
+=== DATA & BILLING COMPLAINTS ===
+
+Complaint: My data is finishing too quickly / data is being deducted without use
+Category: Data Consumption
+Common Causes: Background app refresh, auto-download, subscribed VAS services
+Resolution Steps:
+1. Dial *323# to check all active balances and identify which bucket is being consumed
+2. Check for active subscriptions draining airtime: Dial *312*5# to see and cancel subscriptions
+3. Turn off background data for non-essential apps
+4. Disable WhatsApp auto-download: Settings → Storage and data → Media auto-download
+5. If the deduction is unexplained, call 300 and request a data usage log
+
+Complaint: I was charged for a service I didn't subscribe to
+Category: Unauthorized Charge / VAS Subscription
+Resolution Steps:
+1. Dial *312*5# to view all active subscriptions
+2. Cancel any unwanted subscription immediately from the same menu
+3. Call 300 or email customercare.ng@mtn.com to request a refund and provide: your number, the service name, amount deducted, and date
+4. If unresolved within 14 days, escalate to NCC consumer portal at ncc.gov.ng
+
+Complaint: Failed airtime or data transaction — money deducted but service not received
+Category: Failed Transaction
+Resolution Steps:
+1. Wait 10–15 minutes as delayed processing sometimes resolves it
+2. Check your balance via *310# (airtime) or *323# (data)
+3. If still unresolved: dial 300, chat with Zigi on WhatsApp at 09033000001, or email customercare.ng@mtn.com
+4. Provide your transaction reference if you have it
+5. Track your complaint via the "Track Complaint" feature on myMTN app using your Ticket Ref ID
+
+Complaint: My data bundle expired before I could use it all
+Category: Bundle Expiry
+Resolution Steps:
+1. Unused data can roll over — but only if you renew before expiry and on an equal or larger plan
+2. Always renew before expiry, not after
+3. Check expiry date by dialling *131*1#
+4. Consider switching to a monthly plan if daily/weekly plans expire too fast
+
+=== CUSTOMER SERVICE COMPLAINTS ===
+
+Complaint: Long wait times when calling 300 / unable to reach an agent
+Category: Customer Service Quality
+Resolution Steps:
+1. Try WhatsApp at 09033000001 — often faster than calling
+2. Use live chat on mtn.ng during off-peak hours (early morning)
+3. Use the myMTN app self-service features for common issues (balance, data, subscriptions)
+4. Visit a physical MTN service centre for complex issues
+Note: You will first interact with Zigi (MTN's AI chatbot). If your issue is not resolved, you will be transferred to a live agent.
+
+Complaint: Rude or unhelpful customer service agent
+Category: Agent Conduct
+Resolution Steps:
+1. Note the time of the call and the agent's name/ID if given
+2. Email customercare.ng@mtn.com with a formal complaint including the interaction details
+3. Mention that all calls are recorded for quality assurance and request a review
+4. Escalate to the FCCPC (fccpc.gov.ng) if MTN does not respond within 14 days
+
+=== ROAMING COMPLAINTS ===
+
+Complaint: My line is not working abroad / unable to make calls while roaming
+Category: International Roaming
+Resolution Steps:
+1. Ensure roaming is activated before travelling — dial *312*6# or visit a service centre
+2. Check if your destination is in MTN's roaming partner list on mtn.ng
+3. Manually select the network: Go to phone Settings → Mobile Network → Select Network Manually
+4. Use the myMTN app to manage roaming if USSD codes are not working abroad
+5. Call +2348031000180 for support from outside Nigeria
+
+=== SIM COMPLAINTS ===
+
+Complaint: SIM card not working / unable to make calls or use data
+Category: SIM Issue
+Resolution Steps:
+1. Remove and reinsert the SIM card
+2. Test the SIM in another phone to determine if it's a device or SIM issue
+3. Restart phone
+4. If still not working, visit any MTN service centre for a SIM replacement — bring a valid ID
+
+Complaint: My line has been barred / suspended
+Category: Line Suspension
+Common Causes: Unpaid postpaid bill, NIN/SIM registration non-compliance, suspected fraud
+Resolution Steps:
+1. Check if your NIN is properly linked — visit an MTN service centre
+2. For postpaid: settle outstanding bills via the myMTN app or at a service centre
+3. Call 300 from another line or visit a service centre for clarification
+
+=== ESCALATION CONTACTS ===
+
+Primary: Call 300 (toll-free from MTN line) | 08031000180 (other networks) | +2348031000180 (abroad)
+WhatsApp: 09033000001 (Zigi chatbot, transfers to agent if needed)
+Email: customercare.ng@mtn.com
+Social Media: @MTN180 on Twitter | MTN Nigeria on Facebook
+Physical: Visit any MTN Service Centre (use Store Finder on mtn.ng)
+Regulatory Escalation: NCC — 080-22220002 | FCCPC — fccpc.gov.ng (if unresolved after 14 days)

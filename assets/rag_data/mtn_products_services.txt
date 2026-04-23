@@ -1,0 +1,110 @@
+MTN NIGERIA - PRODUCTS AND SERVICES OVERVIEW
+
+=== VOICE SERVICES ===
+
+MTN Prepaid
+- Pay-as-you-go service with no monthly commitment
+- Multiple tariff plans available (Pulse, BetaTalk, and others)
+- Check current plan: *123*1*2#
+- Migrate between plans via USSD
+
+MTN Postpaid
+- Monthly billing with higher-tier service options
+- Suitable for business users and heavy callers
+- Includes itemised billing and dedicated account management
+
+MTN TravelPass (International Roaming)
+- Available to all prepaid and postpaid customers
+- Allows calls, SMS, and data while abroad
+- Activate via *312*6*1# or *123*4*1# before travelling
+- Support from abroad: +2348031000180
+
+=== DATA SERVICES ===
+
+Mobile Data Plans
+- Daily Plans: Short-validity bundles for light, occasional use
+- Weekly Plans: 7-day bundles for moderate users
+- Monthly Plans: Best value for regular internet users
+- Bi-monthly / Quarterly / Yearly: Long-term plans with better per-MB rates
+- Night Plans: Data valid only between 11pm and 6am — good value for heavy downloaders
+- Social Bundles: Restricted to specific apps (WhatsApp, Instagram, Twitter/X)
+- Activate all plans: *312# or *904#
+
+5G Network
+- MTN operates Nigeria's number one 5G network
+- Available in select cities and expanding
+- Compatible devices required
+
+MTN Router/Home Broadband Plans
+- Fixed broadband data for routers and MiFi devices
+- Activate via *312*500# or *461*1#
+
+=== DIGITAL & VALUE-ADDED SERVICES ===
+
+myMTN App
+- Self-service app for balance checks, data purchase, bill payment, and complaint tracking
+- Download from Play Store or Apple Store, or text "myMTN" to 5018
+- Provides bonus data for regular app usage
+
+Zigi (AI Chatbot)
+- MTN's virtual assistant available on WhatsApp (09033000001) and the myMTN app
+- Handles: balance checks, data subscriptions, complaint logging, FAQ
+- Escalates to live agent for complex issues
+- Available 24/7
+
+XtraTime (Airtime Credit)
+- Borrow airtime or data when balance is low
+- Dial *303# to access
+- 15% service charge applies
+- Repaid automatically on next recharge
+
+MTN Mobile Money (MoMo)
+- Mobile financial services platform
+- Send and receive money, pay bills, buy data/airtime
+- Available via *671# or the MoMo app
+
+=== BUSINESS SERVICES ===
+
+MTN Business Solutions
+- Enterprise connectivity (dedicated internet, MPLS, SD-WAN)
+- Bulk SMS and voice solutions for businesses
+- IoT connectivity for smart devices and fleet management
+- Cloud and hosting services
+
+MTN Managed Services
+- End-to-end network management for enterprises
+- SLA-backed uptime guarantees
+
+=== CUSTOMER SUPPORT CHANNELS ===
+
+Self-Service (24/7):
+- myMTN App
+- Zigi on WhatsApp: 09033000001
+- USSD codes (*310#, *323#, *312#, etc.)
+
+Assisted Support (24/7):
+- Call: 300 (MTN line, toll-free) | 08031000180 (other networks)
+- WhatsApp: 09033000001
+- Live Chat: mtn.ng/contact
+- Email: customercare.ng@mtn.com (slower, best for formal complaints)
+
+In-Person:
+- MTN Service Centres nationwide
+- Use Store Finder on mtn.ng
+- Appointments can be scheduled online
+
+=== KEY USSD CODES SUMMARY ===
+
+*310#       Check airtime balance
+*323#       Check data balance (all types)
+*323*4#     Quick main data balance check
+*312#       Buy data / manage bundles
+*904#       Buy airtime or data via bank
+*303#       Borrow airtime/data (XtraTime)
+*312*5#     View and cancel active VAS subscriptions
+*131*7#     Transfer data to another MTN user
+*600*number*amount*PIN# Transfer airtime
+*312*6#     International roaming services
+*123*1*2#   Check current tariff plan
+*131*1#     Check data rollover eligibility
+300         Customer care (toll-free, MTN line)

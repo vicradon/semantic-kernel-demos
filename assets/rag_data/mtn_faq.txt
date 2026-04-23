@@ -1,0 +1,86 @@
+MTN NIGERIA - FREQUENTLY ASKED QUESTIONS (FAQ)
+
+=== DATA & INTERNET ===
+
+Q: What are the different MTN data bundle plans available?
+A: MTN offers Daily, Weekly, Monthly, Bi-monthly, Quarterly and Yearly plans. You can subscribe via USSD by dialling *312*1# or *904# and selecting your preferred plan. You can also use the myMTN app or send the bundle keyword to 312.
+
+Q: How do I check my MTN data balance?
+A: Dial *323*4# to check your main data balance instantly. For a full breakdown including bonus, night plan, and social bundle balances, dial *323# and select option 4. You can also check via the myMTN app.
+
+Q: What is data rollover and how does it work?
+A: Data rollover allows unused data to carry over when you renew your plan before it expires. Rules: (1) You must renew before your current plan expires. (2) The new plan must be equal to or larger than the expiring plan. (3) Only main data (not bonus data) rolls over. (4) Plan types must match — daily rolls to daily, monthly to monthly. Check rollover eligibility by dialling *131*1#.
+
+Q: Why is my data finishing too fast?
+A: Common reasons include background app refresh, auto-play videos on social media, automatic app updates, and WhatsApp auto-download. Check specific balances with *559*4# or *323# to see if you have bonus or night data being consumed separately.
+
+Q: How do I activate auto-renewal on my data bundle?
+A: When purchasing a bundle via USSD, select the "Auto-renew" option from the popup menu. To cancel auto-renewal later, send NO+bundle code to 312. Example: Send NO104 to 312 to cancel auto-renewal on the 120MB daily bundle.
+
+Q: How do I share data with another person?
+A: Dial *131*7#, select "Transfer Data", enter the recipient's MTN number, choose the amount (minimum 50MB), and enter your PIN (default: 0000). A fee of ₦50 applies per transfer with a daily limit of 5GB.
+
+Q: Can I use my MTN data bundle while roaming?
+A: Yes. If you have an active data bundle with hybrid functionality while roaming, you can use the remaining balance when you return to Nigeria at the applicable local rate.
+
+=== AIRTIME & BILLING ===
+
+Q: How do I check my MTN airtime balance?
+A: Dial *310# to check your airtime balance instantly.
+
+Q: How do I buy airtime on MTN?
+A: Dial *904# to purchase airtime directly from your bank account or debit card. You can also recharge using a recharge card or via the myMTN app.
+
+Q: How do I borrow airtime or data on MTN?
+A: Dial *303# and follow the prompts. A service charge of 15% applies to borrowed airtime or data.
+
+Q: How do I request a refund from MTN?
+A: Contact MTN customer care via any channel (call 300, WhatsApp, or email customercare.ng@mtn.com). Explain the issue, provide your phone number, the service charged, and the amount. If approved, the refund will be credited to your MTN account or bank account.
+
+Q: Can I transfer airtime to another MTN user?
+A: Yes. Dial *600*recipient_number*amount*PIN# to transfer airtime. Default PIN is 0000.
+
+=== TARIFF PLANS ===
+
+Q: How do I check my current MTN tariff plan?
+A: Dial *123*1*2# to confirm your current plan.
+
+Q: What MTN tariff plans are available?
+A: Major prepaid plans include:
+- MTN Pulse: Best for students and young people
+- MTN BetaTalk: Offers 250% airtime bonus and 50MB on every recharge of ₦100 and above
+To migrate: Dial the USSD code for your desired plan. Migration is free if you haven't migrated in the past 30 days. ₦100 is charged for subsequent migrations within 30 days.
+
+=== ROAMING ===
+
+Q: How do I activate MTN international roaming?
+A: Dial *312*6# to manage roaming services. You can also dial *312*6*1#, *123*4*1#, or *904# and select "TravelPass plan" under Roaming & Int'l Offers. All prepaid and postpaid MTN customers can subscribe to TravelPass plans.
+
+Q: Can I use USSD codes while roaming?
+A: Limited functionality applies while roaming. *310# for balance check may work, but purchasing codes may not function properly. Use the myMTN app with a data connection instead when travelling abroad.
+
+=== SIM & ACCOUNT ===
+
+Q: How do I register or update my NIN on MTN?
+A: Visit any MTN service centre or Connect Store with your NIN slip and a valid ID. You can also schedule an appointment online using the MTN Store Finder.
+
+Q: How do I do a SIM swap?
+A: Visit any MTN service centre in person with a valid ID. SIM swaps cannot be done remotely.
+
+Q: How do I activate MTN eSIM?
+A: Visit an MTN service centre or use the myMTN app. eSIM activation may require an in-person visit for verification.
+
+=== USSD QUICK REFERENCE ===
+
+*310#     — Check airtime balance
+*323*4#   — Check data balance
+*323#     — Full balance menu (data, bonus, night, social)
+*312#     — Buy data / manage data bundles
+*904#     — Buy airtime or data via bank
+*303#     — Borrow airtime or data (XtraTime)
+*600*recipient*amount*PIN# — Transfer airtime
+*131*7#   — Transfer data
+*312*6#   — Roaming services
+*312*500# — Router data plans
+*123*1*2# — Check current tariff plan
+300       — Call customer care (toll-free from MTN line)
