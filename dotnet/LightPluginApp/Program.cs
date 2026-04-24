@@ -1,4 +1,5 @@
-﻿using Microsoft.SemanticKernel;
+﻿using DotNetEnv;
+using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.ChatCompletion;
 using Microsoft.SemanticKernel.Connectors.OpenAI;
 using System;
@@ -27,9 +28,11 @@ class Program
     {
         Console.WriteLine("======== Semantic Kernel Light Plugin App ========");
 
-        string? endpoint = "https://openai202.openai.azure.com";
-        string? modelId = "gpt-4o-mini";
-        string? apiKey = "";
+        Env.Load();
+
+        string? endpoint = Environment.GetEnvironmentVariable("AZURE_OPENAI_ENDPOINT");
+        string? modelId = Environment.GetEnvironmentVariable("AZURE_OPENAI_MODEL_ID");
+        string? apiKey = Environment.GetEnvironmentVariable("AZURE_OPENAI_API_KEY");
 
         if (endpoint is null || modelId is null || apiKey is null)
         {

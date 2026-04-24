@@ -11,6 +11,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.SemanticKernel" Version="1.30.0" />
     <PackageReference Include="Microsoft.SemanticKernel.PromptTemplates.Handlebars" Version="1.30.0" />
+    <PackageReference Include="DotNetEnv" Version="3.1.0" />
   </ItemGroup>
 
 </Project>

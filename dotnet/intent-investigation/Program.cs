@@ -1,8 +1,11 @@
-﻿using Microsoft.SemanticKernel;
+﻿using DotNetEnv;
+using Microsoft.SemanticKernel;
 
-var modelId = "gpt-4o-mini";
-var endpoint = "https://openai202.openai.azure.com";
-var apiKey = "";
+Env.Load();
+
+var modelId = Environment.GetEnvironmentVariable("AZURE_OPENAI_MODEL_ID") ?? throw new InvalidOperationException("AZURE_OPENAI_MODEL_ID environment variable is not set");
+var endpoint = Environment.GetEnvironmentVariable("AZURE_OPENAI_ENDPOINT") ?? throw new InvalidOperationException("AZURE_OPENAI_ENDPOINT environment variable is not set");
+var apiKey = Environment.GetEnvironmentVariable("AZURE_OPENAI_API_KEY") ?? throw new InvalidOperationException("AZURE_OPENAI_API_KEY environment variable is not set");
 
 var builder = Kernel.CreateBuilder().AddAzureOpenAIChatCompletion(modelId, endpoint, apiKey);
 Kernel kernel = builder.Build();

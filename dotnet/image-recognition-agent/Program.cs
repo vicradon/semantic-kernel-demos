@@ -1,10 +1,12 @@
-﻿using Microsoft.SemanticKernel;
+﻿using DotNetEnv;
+using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.PromptTemplates.Handlebars;
 
-// Populate values from your OpenAI deployment
-var modelId = "gpt-4o-mini";
-var endpoint = "https://openai202.openai.azure.com";
-var apiKey = "";
+Env.Load();
+
+var modelId = Environment.GetEnvironmentVariable("AZURE_OPENAI_MODEL_ID") ?? throw new InvalidOperationException("AZURE_OPENAI_MODEL_ID environment variable is not set");
+var endpoint = Environment.GetEnvironmentVariable("AZURE_OPENAI_ENDPOINT") ?? throw new InvalidOperationException("AZURE_OPENAI_ENDPOINT environment variable is not set");
+var apiKey = Environment.GetEnvironmentVariable("AZURE_OPENAI_API_KEY") ?? throw new InvalidOperationException("AZURE_OPENAI_API_KEY environment variable is not set");
 
 // Create a kernel with Azure OpenAI chat completion
 var builder = Kernel.CreateBuilder().AddAzureOpenAIChatCompletion(modelId, endpoint, apiKey);
@@ -33,7 +35,7 @@ var function = kernel.CreateFunctionFromPrompt(promptTemplateConfig, templateFac
 var arguments = new KernelArguments(new Dictionary<string, object?>
 {
     {"request","Describe this image"},
-    {"imageData", "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAALElEQVR4nGKZzfeQAQk8tf6MzGViwAtoKs2yzFsImR/geYhudhOQBgQAAP//oeMGFCsVo7YAAAAASUVORK5CYII="}
+    {"imageData", "https://www.mypetsies.com/blog/app/uploads/2016/08/85120553.jpg"}
 });
 
 var response = await kernel.InvokeAsync(function, arguments);
